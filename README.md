@@ -1,4 +1,4 @@
-# JS_second
+# JSP_second
 ## request 내장객체는 클라이언트가 요청하는 http 정보 저장
 ## request의 주요 메소드
 *getParameter(String name) 해당 name 속성의 파라미터 값 리턴
