@@ -11,7 +11,6 @@
 
 전송 버튼 클릭을 하면 jsp 화면으로 전환한다.
 
-
 ![image](https://github.com/seokhyun06/JS_second/assets/122009563/fd7cd261-5dd0-4843-b9d3-53059d7a4cd7)
 
 # jsp 
